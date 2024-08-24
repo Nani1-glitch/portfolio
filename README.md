@@ -1,5 +1,7 @@
 ## Hola, I am [Nithin Rajulapati](https://nithinrajulapati.info/) 👋
 
+## This was my first portfolio website, created in 2020. You can have a look at this repo if you want or else you can also use the code for your portfolio development 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nani1-glitch&label=Views_This_Week&color=blue&style=plastic" alt="nithin" /> </p>
 
 <a href="https://www.linkedin.com/in/nithin-rajulapati-69133a1aa/">
